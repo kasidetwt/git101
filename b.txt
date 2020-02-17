@@ -1,1 +1,1 @@
-This is b.txt and save
+แก้ไขไฟล์ b.txt and บรรทัดแรก ใน branch feature2 and save
